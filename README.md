@@ -4,12 +4,8 @@
 
 <body>
 
-
-<br><br><br>
+<br>
 <a href="Pagina principal.html" target="blank"> enlace a página principal </a>
-
-
-<br><br><br>
 
 
 </body>
