@@ -1,5 +1,4 @@
 <html>
-# ADYG-FASHION
 <H2> Pagina de moda otoño e invierno </H2>
 
 <body>
